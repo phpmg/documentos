@@ -17,12 +17,13 @@ Os participantes da comunidade que violarem estas regras podem ser convidados a 
 
 ### Versão mais longa
 Será entendido como assédio:
-    - Comentários ofensivos relacionados ao sexo, idade, sexualidade, deficiência, aparência física, tamanho, raça, religião;
-    - Imagens sexuais em espaços públicos ou qualquer meio online;
-    - Intimidação deliberada, perseguição, assédio fotográfico;
-    - Interrupção de palestra ou de alguma outra ação por motivos que não sejam pertinentes ao evento em questão;
-    - Contato físico inapropriado;
-    - Atenção sexual indesejada;
+
+- Comentários ofensivos relacionados ao sexo, idade, sexualidade, deficiência, aparência física, tamanho, raça, religião;
+- Imagens sexuais em espaços públicos ou qualquer meio online;
+- Intimidação deliberada, perseguição, assédio fotográfico;
+- Interrupção de palestra ou de alguma outra ação por motivos que não sejam pertinentes ao evento em questão;
+- Contato físico inapropriado;
+- Atenção sexual indesejada;
 
 Os participantes que forem advertidos por qualquer comportamento de assédio devem parar imediatamente.
 
