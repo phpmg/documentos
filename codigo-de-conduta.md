@@ -6,7 +6,7 @@ Todos os participantes, palestrantes, patrocinadores e voluntários da comunidad
 ***tl;dr: Não seja um idiota***
 
 ### Precisa de ajuda?
-Procure algum dos organizadores da página do [MeetUp](www.meetup.com/PHP-MG/), eles farão tudo possível para te ajudar.
+Procure algum dos organizadores da página do [MeetUp](http://www.meetup.com/PHP-MG/), eles farão tudo possível para te ajudar.
 
 ### Versão rápida
 Nossos encontros (meetups), palestras, eventos, hangouts são dedicados a fornecer uma experiência livre de assédio para todos, independentemente do sexo, idade, sexualidade, deficiência, aparência física, tamanho, raça, ou religião.
