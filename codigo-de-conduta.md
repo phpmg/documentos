@@ -9,21 +9,21 @@ Todos os participantes, palestrantes, patrocinadores e voluntários da comunidad
 Procure algum dos organizadores da página do [MeetUp](http://www.meetup.com/PHP-MG/), eles farão tudo possível para te ajudar.
 
 ### Versão rápida
-Nossos encontros (meetups), palestras, eventos, hangouts são dedicados a fornecer uma experiência livre de assédio para todos, independentemente do sexo, idade, sexualidade, deficiência, aparência física, tamanho, raça, ou religião.
+Nossos encontros (meetups), palestras, eventos, hangouts são dedicados a fornecer uma experiência livre de assédio para todos, independentemente de gênero, idade, sexualidade, deficiência, aparência física, tamanho, cor de pele, nacionalidade ou religião.
 
 Nós não toleramos assédio dos participantes, sob qualquer forma.
-Linguagem e imagens sexuais não são adequadas em nenhum local de reunião da comunidade do PHPMG, incluindo encontros, palestras, workshops, festas, bares, e quaisquer meios ***online***.
+Linguagem e imagens sexuais não são adequadas em nenhum local de reunião da comunidade do PHPMG, incluindo encontros, palestras, workshops, festas, bares e quaisquer meios ***online***.
 Os participantes da comunidade que violarem estas regras podem ser convidados a se retirar do evento ou grupo online em questão a critério dos organizadores sem restituição financeira, quando cabível.
 
 ### Versão mais longa
 Será entendido como assédio:
 
-- Comentários ofensivos relacionados ao sexo, idade, sexualidade, deficiência, aparência física, tamanho, raça, religião;
-- Imagens sexuais em espaços públicos ou qualquer meio online;
+- Comentários ofensivos relacionados a gênero, idade, sexualidade, deficiência, aparência física, tamanho, cor de pele, nacionalidade ou religião;
+- Imagens sexuais em espaços físicos ou qualquer meio online;
 - Intimidação deliberada, perseguição, assédio fotográfico;
 - Interrupção de palestra ou de alguma outra ação por motivos que não sejam pertinentes ao evento em questão;
 - Contato físico inapropriado;
-- Atenção sexual indesejada;
+- Atenção sexual indesejada (assédio);
 
 Os participantes que forem advertidos por qualquer comportamento de assédio devem parar imediatamente.
 
